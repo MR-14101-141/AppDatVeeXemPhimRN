@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">109288608579-4jsoocaenvirupeej41p2ctg0iohskut.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">109288608579</string>
+    <string name="google_api_key" translatable="false">AIzaSyDuNCO3nLD1mNoTNyaW7D_gKakIkH7KI_o</string>
+    <string name="google_app_id" translatable="false">1:109288608579:android:9b8da41073ff119d7755f6</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDuNCO3nLD1mNoTNyaW7D_gKakIkH7KI_o</string>
+    <string name="google_storage_bucket" translatable="false">reactnativelaravel.appspot.com</string>
+    <string name="project_id" translatable="false">reactnativelaravel</string>
+</resources>

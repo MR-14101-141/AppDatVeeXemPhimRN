@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "109288608579",
+    "project_id": "reactnativelaravel",
+    "storage_bucket": "reactnativelaravel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109288608579:android:9b8da41073ff119d7755f6",
+        "android_client_info": {
+          "package_name": "com.appbanvexemphim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109288608579-4jsoocaenvirupeej41p2ctg0iohskut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuNCO3nLD1mNoTNyaW7D_gKakIkH7KI_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109288608579-4jsoocaenvirupeej41p2ctg0iohskut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

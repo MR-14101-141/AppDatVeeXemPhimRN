@@ -1,0 +1,859 @@
+-- Merging decision tree log ---
+manifest
+ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:1:1-57:12
+INJECTED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:1:1-57:12
+INJECTED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:1:1-57:12
+INJECTED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:1:1-57:12
+MERGED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:1:1-57:12
+MERGED from [com.facebook.flipper:flipper:0.75.1] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\c86139b26daa743d708b56c8f06ddf9b\jetified-flipper-0.75.1\AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.75.1] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8156acc6974468edf9e1cb70b7a9f2f6\jetified-flipper-network-plugin-0.75.1\AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.75.1] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\9bf59968a7e8b17efe1dfa99dfb5cc09\jetified-flipper-fresco-plugin-0.75.1\AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-vector-icons] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-async-storage_async-storage] O:\On\ANDROID\AppBanVeXemPhim\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_datetimepicker] O:\On\ANDROID\AppBanVeXemPhim\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-community_masked-view] O:\On\ANDROID\AppBanVeXemPhim\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-picker_picker] O:\On\ANDROID\AppBanVeXemPhim\node_modules\@react-native-picker\picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-crop-picker] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-34:12
+MERGED from [:react-native-push-notification] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-push-notification\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-webview] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [com.facebook.react:react-native:0.64.2] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\e03cffa032db704fe9b1495de23b4b89\jetified-react-native-0.64.2\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\b225c451e469d24a4c070a8633649134\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ae6c6a9b0ba723a97b4e5989ad2e0d62\jetified-firebase-analytics-17.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\696e384e0e911ac103b36f724d4000b2\jetified-android-jsc-r245459\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-reanimated\android\build\.transforms\2bc9efeaf2e21f1a8a4d6dacf3d9dcf7\jetified-react-native-reanimated-64-jsc\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:flipper:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\632a626f4e0aad5d3686c687b04204ba\jetified-flipper-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\370ce43dc7887834744a2d3fb976f2ff\jetified-stetho-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\1a605a71ee5860c594973993003d7dac\jetified-fresco-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\df9de5a545908432b3f72fb397fadfab\jetified-drawee-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\a1560f043484ba09e620de1b2d378b0b\jetified-nativeimagefilters-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\40bcd4bb4586359172143c74eb892f34\jetified-memory-type-native-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\4e7a5e682038fd0388885a5350e24c39\jetified-memory-type-java-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\d2319542c83316b1e1b15e164c1517ea\jetified-imagepipeline-native-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\28ec6b58352892e35dc614f38e07ed9d\jetified-soloader-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ed67d6a1b677203fbbcafa5c1fbb0d74\jetified-soloader-0.10.1\AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ed20307cb71ed82f23fce6de08c60ff5\jetified-ucrop-2.2.6-native\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\faa2b37a2e2015d3196379098f13979c\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ac1ca7e8492e40dd52e71b19da285f82\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\62d5bb6504f3c10f19bcc56e99b4c73b\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\50b0a830a7988b59430de65651410719\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\65583a3d4607cd709167a7ab8eda7e72\jetified-memory-type-ashmem-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\0127ec8b4f6c1603d84dfb6ff34bdec6\jetified-imagepipeline-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\9a515c8c3da46e57c74aaceac79f8548\jetified-nativeimagetranscoder-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\13d6b068c7bf918d81d537ff6c73827f\jetified-imagepipeline-base-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-messaging:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8f1cfb3d0ad4f7791d047005333b1a4c\jetified-firebase-messaging-21.1.0\AndroidManifest.xml:17:1-58:12
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\b06c52c7157dd1e78b70bd52647f86c3\jetified-firebase-datatransport-17.0.10\AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\de6ae469dcba5d51e29e04fa4658368c\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ae27e8a7189a18ce6c84c3d3459e1883\jetified-transport-runtime-2.2.5\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\3f8bcd2bcdc14505fbe3b02a40c5b81c\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\20d8e46803de3f92c0b72667c84435b7\jetified-play-services-measurement-api-17.3.0\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\d177b5ab783d73b28e84f12ae05e9f64\jetified-play-services-measurement-sdk-17.3.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\f65797ef4ba96e32d3bb37e3a4d063e4\jetified-play-services-measurement-impl-17.3.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\6c7abcdaddf8c20a82a7ec8ea63f20d7\jetified-play-services-measurement-sdk-api-17.3.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\5bb43ed5403ab5e7e94fd91ee3d0cda6\jetified-play-services-measurement-base-17.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\10af7865d8975a55a9f3faa197e2c37b\jetified-firebase-iid-21.1.0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\01fdfb027532cc79a8701d48ee913e2e\jetified-play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\6367a665e603efe3962c1b5761ffe2ce\jetified-firebase-installations-16.3.5\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8638343cfa94e40b888f48d4a8cee7c7\jetified-firebase-common-19.5.0\AndroidManifest.xml:15:1-49:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\519f1e8a483d0de871c5ab955911ec61\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\d160d4311f6a94820269d2cf0b1d6d0d\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\b600b1a50054e7138a85e15288df6c03\jetified-firebase-installations-interop-16.0.1\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\69ba75d567fadd8ecf0ab300f56ff7c3\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\e8f46b6f0e2a738c3579573aa14c3c0a\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\f7e6d7dc5b4a1e70537d95bee270813a\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\0b1d2595e8d3b86096129b4aa3ac24ab\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\42d3f54ed29f88964a9b43a895452f44\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\997a506ea3e116b2aa361165b260122e\fragment-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\53c8ac7a730ae30460f99a58daee781b\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\e0bef4d7d3e6ed55aac449d4c19c7c75\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8f1e2843711d7737459fe295fd07a568\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\404f33c8e023fdc8472f78afb9a7ffd6\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\214706c20459189f62438bce45dab277\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\38947a6d5d739e23b4f7ecb3c8a1b5e5\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\63b5a2c6c832e038d24d51c96fe4664d\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\2e5d7d72ed080ba98133a7deb6c100fa\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\a171db973a50abe13b36fdf5bd9d5520\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\09a04913d85176ea535e35d6c1647d21\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\a57c8fc09bcd76283237b1d6425ae411\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8fc6106c5eb1ba5af76446ff3b1c1811\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\04b708b5fa131567a738af0b14e48dde\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\b10e05cfcf0de178cbdef4c00128767a\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\f4a58c66ea4f6cfeb3d98040ace9516c\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\cd60ac0f34d5c2942cf601cfc1d138a5\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\aef39c89e0f939479835d90120e719bc\exifinterface-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\7da59af5a1bb83a31e1f26d8a5b45ba4\jetified-firebase-components-16.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\dba205afd1ab33eef5d3fbaf402fe7dc\jetified-firebase-encoders-json-17.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ac64841c52aed9c69e097abaa0c18d30\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\c034aca00c9f408ced656739d28ebbf1\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\2f44102760ccedd4b25f7f69eb386767\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\7f660789006e834e7b6eba42f208d6d2\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\893aec16360ca016d824a33e710b7a2e\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\b7f12bef71dd1e992a15c19754cc1aca\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8ca6d37d7b0e9cf291279400063a7f07\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\86bd68c6b85f965a0bcf94a85da4b8ed\jetified-transport-api-2.2.1\AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\572281fb1f65e169cfa1efbeb143d5fc\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\418e46feee8813da3a9ea530296b69f1\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\52d45e228c524a60f620b725449e8fef\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\4cd68b3a465ceb2f948825aab891adea\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\e562cf5990edfe9f8fb195d918547c81\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\43806ab21c5473d0df7e6f1f6122b539\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:2:1-52:12
+MERGED from [com.facebook.fresco:fbcore:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\13a4d33f528b1cd5e74543d984b5d25b\jetified-fbcore-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\d36d64326ade23c9bf26f97a727d0ebf\jetified-ui-common-2.2.0\AndroidManifest.xml:2:1-9:12
+INJECTED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\debug\AndroidManifest.xml:2:1-13:12
+INJECTED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\debug\AndroidManifest.xml:2:1-13:12
+INJECTED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\debug\AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:2:3-32
+		INJECTED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:2:3-32
+		INJECTED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:1:1-57:12
+		INJECTED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:1:1-57:12
+		INJECTED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.75.1] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\c86139b26daa743d708b56c8f06ddf9b\jetified-flipper-0.75.1\AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.75.1] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\c86139b26daa743d708b56c8f06ddf9b\jetified-flipper-0.75.1\AndroidManifest.xml:15:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\de6ae469dcba5d51e29e04fa4658368c\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\de6ae469dcba5d51e29e04fa4658368c\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\3f8bcd2bcdc14505fbe3b02a40c5b81c\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\3f8bcd2bcdc14505fbe3b02a40c5b81c\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\20d8e46803de3f92c0b72667c84435b7\jetified-play-services-measurement-api-17.3.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\20d8e46803de3f92c0b72667c84435b7\jetified-play-services-measurement-api-17.3.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\f65797ef4ba96e32d3bb37e3a4d063e4\jetified-play-services-measurement-impl-17.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\f65797ef4ba96e32d3bb37e3a4d063e4\jetified-play-services-measurement-impl-17.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\6c7abcdaddf8c20a82a7ec8ea63f20d7\jetified-play-services-measurement-sdk-api-17.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\6c7abcdaddf8c20a82a7ec8ea63f20d7\jetified-play-services-measurement-sdk-api-17.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\10af7865d8975a55a9f3faa197e2c37b\jetified-firebase-iid-21.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\10af7865d8975a55a9f3faa197e2c37b\jetified-firebase-iid-21.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\6367a665e603efe3962c1b5761ffe2ce\jetified-firebase-installations-16.3.5\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\6367a665e603efe3962c1b5761ffe2ce\jetified-firebase-installations-16.3.5\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\519f1e8a483d0de871c5ab955911ec61\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\519f1e8a483d0de871c5ab955911ec61\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.CAMERA
+ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:5:5-64
+	android:name
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:5:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:6:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:7:22-78
+application
+ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:9:5-56:19
+MERGED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:9:5-56:19
+MERGED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:9:5-56:19
+MERGED from [:react-native-community_datetimepicker] O:\On\ANDROID\AppBanVeXemPhim\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-20
+MERGED from [:react-native-community_datetimepicker] O:\On\ANDROID\AppBanVeXemPhim\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-20
+MERGED from [:react-native-image-crop-picker] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:5-32:19
+MERGED from [:react-native-image-crop-picker] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:5-32:19
+MERGED from [:react-native-webview] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.64.2] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\e03cffa032db704fe9b1495de23b4b89\jetified-react-native-0.64.2\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.64.2] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\e03cffa032db704fe9b1495de23b4b89\jetified-react-native-0.64.2\AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ae6c6a9b0ba723a97b4e5989ad2e0d62\jetified-firebase-analytics-17.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ae6c6a9b0ba723a97b4e5989ad2e0d62\jetified-firebase-analytics-17.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ed67d6a1b677203fbbcafa5c1fbb0d74\jetified-soloader-0.10.1\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ed67d6a1b677203fbbcafa5c1fbb0d74\jetified-soloader-0.10.1\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\faa2b37a2e2015d3196379098f13979c\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\faa2b37a2e2015d3196379098f13979c\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8f1cfb3d0ad4f7791d047005333b1a4c\jetified-firebase-messaging-21.1.0\AndroidManifest.xml:27:5-56:19
+MERGED from [com.google.firebase:firebase-messaging:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8f1cfb3d0ad4f7791d047005333b1a4c\jetified-firebase-messaging-21.1.0\AndroidManifest.xml:27:5-56:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\b06c52c7157dd1e78b70bd52647f86c3\jetified-firebase-datatransport-17.0.10\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\b06c52c7157dd1e78b70bd52647f86c3\jetified-firebase-datatransport-17.0.10\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\de6ae469dcba5d51e29e04fa4658368c\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\de6ae469dcba5d51e29e04fa4658368c\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ae27e8a7189a18ce6c84c3d3459e1883\jetified-transport-runtime-2.2.5\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ae27e8a7189a18ce6c84c3d3459e1883\jetified-transport-runtime-2.2.5\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\3f8bcd2bcdc14505fbe3b02a40c5b81c\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\3f8bcd2bcdc14505fbe3b02a40c5b81c\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\20d8e46803de3f92c0b72667c84435b7\jetified-play-services-measurement-api-17.3.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\20d8e46803de3f92c0b72667c84435b7\jetified-play-services-measurement-api-17.3.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\d177b5ab783d73b28e84f12ae05e9f64\jetified-play-services-measurement-sdk-17.3.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\d177b5ab783d73b28e84f12ae05e9f64\jetified-play-services-measurement-sdk-17.3.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\f65797ef4ba96e32d3bb37e3a4d063e4\jetified-play-services-measurement-impl-17.3.0\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\f65797ef4ba96e32d3bb37e3a4d063e4\jetified-play-services-measurement-impl-17.3.0\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\5bb43ed5403ab5e7e94fd91ee3d0cda6\jetified-play-services-measurement-base-17.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\5bb43ed5403ab5e7e94fd91ee3d0cda6\jetified-play-services-measurement-base-17.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\10af7865d8975a55a9f3faa197e2c37b\jetified-firebase-iid-21.1.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\10af7865d8975a55a9f3faa197e2c37b\jetified-firebase-iid-21.1.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\01fdfb027532cc79a8701d48ee913e2e\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\01fdfb027532cc79a8701d48ee913e2e\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\6367a665e603efe3962c1b5761ffe2ce\jetified-firebase-installations-16.3.5\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\6367a665e603efe3962c1b5761ffe2ce\jetified-firebase-installations-16.3.5\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8638343cfa94e40b888f48d4a8cee7c7\jetified-firebase-common-19.5.0\AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8638343cfa94e40b888f48d4a8cee7c7\jetified-firebase-common-19.5.0\AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\d160d4311f6a94820269d2cf0b1d6d0d\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\d160d4311f6a94820269d2cf0b1d6d0d\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\69ba75d567fadd8ecf0ab300f56ff7c3\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\69ba75d567fadd8ecf0ab300f56ff7c3\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\e8f46b6f0e2a738c3579573aa14c3c0a\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\e8f46b6f0e2a738c3579573aa14c3c0a\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\f7e6d7dc5b4a1e70537d95bee270813a\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\f7e6d7dc5b4a1e70537d95bee270813a\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\0b1d2595e8d3b86096129b4aa3ac24ab\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\0b1d2595e8d3b86096129b4aa3ac24ab\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\04b708b5fa131567a738af0b14e48dde\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\04b708b5fa131567a738af0b14e48dde\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ac64841c52aed9c69e097abaa0c18d30\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ac64841c52aed9c69e097abaa0c18d30\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\04b708b5fa131567a738af0b14e48dde\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:13:7-39
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:13:7-39
+	tools:ignore
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\debug\AndroidManifest.xml:10:9-48
+	android:roundIcon
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:15:7-52
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:15:7-52
+	tools:targetApi
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\debug\AndroidManifest.xml:9:9-29
+	android:icon
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:14:7-41
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:14:7-41
+	android:allowBackup
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:16:7-34
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:16:7-34
+	android:theme
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:17:7-38
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:17:7-38
+	android:usesCleartextTraffic
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:11:7-42
+	android:name
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:12:7-38
+activity#com.appbanvexemphim.MainActivity
+ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:18:7-29:18
+	android:screenOrientation
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:22:9-45
+	android:label
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:20:9-41
+	android:launchMode
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:23:9-40
+	android:windowSoftInputMode
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:24:9-51
+	android:configChanges
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:21:9-86
+	android:name
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:19:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:25:9-28:25
+action#android.intent.action.MAIN
+ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:26:13-65
+	android:name
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:26:21-62
+category#android.intent.category.LAUNCHER
+ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:27:13-73
+	android:name
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:27:23-70
+meta-data#com.dieam.reactnativepushnotification.notification_foreground
+ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:32:9-33:44
+	android:value
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:33:21-42
+	android:name
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:32:21-97
+meta-data#com.dieam.reactnativepushnotification.notification_color
+ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:35:9-36:54
+	android:resource
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:36:21-52
+	android:name
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:35:21-92
+receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationActions
+ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:38:9-108
+	android:name
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:38:19-105
+receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationPublisher
+ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:39:9-110
+	android:name
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:39:19-107
+receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationBootEventReceiver
+ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:40:9-46:20
+	android:name
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:40:19-115
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:41:13-45:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:42:17-79
+	android:name
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:42:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:43:17-82
+	android:name
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:43:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:44:17-81
+	android:name
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:44:25-79
+service#com.dieam.reactnativepushnotification.modules.RNPushNotificationListenerService
+ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:48:9-54:19
+	android:exported
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:50:13-37
+	android:name
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:49:13-107
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:51:13-53:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:52:17-78
+	android:name
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml:52:25-75
+uses-sdk
+INJECTED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml
+INJECTED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.75.1] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\c86139b26daa743d708b56c8f06ddf9b\jetified-flipper-0.75.1\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.75.1] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\c86139b26daa743d708b56c8f06ddf9b\jetified-flipper-0.75.1\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.75.1] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8156acc6974468edf9e1cb70b7a9f2f6\jetified-flipper-network-plugin-0.75.1\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.75.1] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8156acc6974468edf9e1cb70b7a9f2f6\jetified-flipper-network-plugin-0.75.1\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.75.1] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\9bf59968a7e8b17efe1dfa99dfb5cc09\jetified-flipper-fresco-plugin-0.75.1\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.75.1] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\9bf59968a7e8b17efe1dfa99dfb5cc09\jetified-flipper-fresco-plugin-0.75.1\AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-vector-icons] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-async-storage_async-storage] O:\On\ANDROID\AppBanVeXemPhim\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] O:\On\ANDROID\AppBanVeXemPhim\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] O:\On\ANDROID\AppBanVeXemPhim\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_datetimepicker] O:\On\ANDROID\AppBanVeXemPhim\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_masked-view] O:\On\ANDROID\AppBanVeXemPhim\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] O:\On\ANDROID\AppBanVeXemPhim\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-picker_picker] O:\On\ANDROID\AppBanVeXemPhim\node_modules\@react-native-picker\picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-picker_picker] O:\On\ANDROID\AppBanVeXemPhim\node_modules\@react-native-picker\picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-crop-picker] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-image-crop-picker] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-push-notification] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-push-notification\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-push-notification] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-push-notification\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.64.2] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\e03cffa032db704fe9b1495de23b4b89\jetified-react-native-0.64.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.64.2] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\e03cffa032db704fe9b1495de23b4b89\jetified-react-native-0.64.2\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\b225c451e469d24a4c070a8633649134\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\b225c451e469d24a4c070a8633649134\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-analytics:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ae6c6a9b0ba723a97b4e5989ad2e0d62\jetified-firebase-analytics-17.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ae6c6a9b0ba723a97b4e5989ad2e0d62\jetified-firebase-analytics-17.3.0\AndroidManifest.xml:5:5-44
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\696e384e0e911ac103b36f724d4000b2\jetified-android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\696e384e0e911ac103b36f724d4000b2\jetified-android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-reanimated\android\build\.transforms\2bc9efeaf2e21f1a8a4d6dacf3d9dcf7\jetified-react-native-reanimated-64-jsc\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-reanimated\android\build\.transforms\2bc9efeaf2e21f1a8a4d6dacf3d9dcf7\jetified-react-native-reanimated-64-jsc\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\632a626f4e0aad5d3686c687b04204ba\jetified-flipper-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\632a626f4e0aad5d3686c687b04204ba\jetified-flipper-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\370ce43dc7887834744a2d3fb976f2ff\jetified-stetho-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\370ce43dc7887834744a2d3fb976f2ff\jetified-stetho-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\1a605a71ee5860c594973993003d7dac\jetified-fresco-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\1a605a71ee5860c594973993003d7dac\jetified-fresco-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\df9de5a545908432b3f72fb397fadfab\jetified-drawee-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\df9de5a545908432b3f72fb397fadfab\jetified-drawee-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\a1560f043484ba09e620de1b2d378b0b\jetified-nativeimagefilters-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\a1560f043484ba09e620de1b2d378b0b\jetified-nativeimagefilters-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\40bcd4bb4586359172143c74eb892f34\jetified-memory-type-native-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\40bcd4bb4586359172143c74eb892f34\jetified-memory-type-native-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\4e7a5e682038fd0388885a5350e24c39\jetified-memory-type-java-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\4e7a5e682038fd0388885a5350e24c39\jetified-memory-type-java-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\d2319542c83316b1e1b15e164c1517ea\jetified-imagepipeline-native-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\d2319542c83316b1e1b15e164c1517ea\jetified-imagepipeline-native-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\28ec6b58352892e35dc614f38e07ed9d\jetified-soloader-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\28ec6b58352892e35dc614f38e07ed9d\jetified-soloader-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ed67d6a1b677203fbbcafa5c1fbb0d74\jetified-soloader-0.10.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ed67d6a1b677203fbbcafa5c1fbb0d74\jetified-soloader-0.10.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ed20307cb71ed82f23fce6de08c60ff5\jetified-ucrop-2.2.6-native\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ed20307cb71ed82f23fce6de08c60ff5\jetified-ucrop-2.2.6-native\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\faa2b37a2e2015d3196379098f13979c\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\faa2b37a2e2015d3196379098f13979c\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ac1ca7e8492e40dd52e71b19da285f82\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ac1ca7e8492e40dd52e71b19da285f82\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\62d5bb6504f3c10f19bcc56e99b4c73b\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\62d5bb6504f3c10f19bcc56e99b4c73b\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\50b0a830a7988b59430de65651410719\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\50b0a830a7988b59430de65651410719\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\65583a3d4607cd709167a7ab8eda7e72\jetified-memory-type-ashmem-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\65583a3d4607cd709167a7ab8eda7e72\jetified-memory-type-ashmem-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\0127ec8b4f6c1603d84dfb6ff34bdec6\jetified-imagepipeline-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\0127ec8b4f6c1603d84dfb6ff34bdec6\jetified-imagepipeline-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\9a515c8c3da46e57c74aaceac79f8548\jetified-nativeimagetranscoder-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\9a515c8c3da46e57c74aaceac79f8548\jetified-nativeimagetranscoder-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\13d6b068c7bf918d81d537ff6c73827f\jetified-imagepipeline-base-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\13d6b068c7bf918d81d537ff6c73827f\jetified-imagepipeline-base-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-messaging:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8f1cfb3d0ad4f7791d047005333b1a4c\jetified-firebase-messaging-21.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8f1cfb3d0ad4f7791d047005333b1a4c\jetified-firebase-messaging-21.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\b06c52c7157dd1e78b70bd52647f86c3\jetified-firebase-datatransport-17.0.10\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\b06c52c7157dd1e78b70bd52647f86c3\jetified-firebase-datatransport-17.0.10\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\de6ae469dcba5d51e29e04fa4658368c\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\de6ae469dcba5d51e29e04fa4658368c\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ae27e8a7189a18ce6c84c3d3459e1883\jetified-transport-runtime-2.2.5\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ae27e8a7189a18ce6c84c3d3459e1883\jetified-transport-runtime-2.2.5\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\3f8bcd2bcdc14505fbe3b02a40c5b81c\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\3f8bcd2bcdc14505fbe3b02a40c5b81c\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\20d8e46803de3f92c0b72667c84435b7\jetified-play-services-measurement-api-17.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\20d8e46803de3f92c0b72667c84435b7\jetified-play-services-measurement-api-17.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\d177b5ab783d73b28e84f12ae05e9f64\jetified-play-services-measurement-sdk-17.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\d177b5ab783d73b28e84f12ae05e9f64\jetified-play-services-measurement-sdk-17.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\f65797ef4ba96e32d3bb37e3a4d063e4\jetified-play-services-measurement-impl-17.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\f65797ef4ba96e32d3bb37e3a4d063e4\jetified-play-services-measurement-impl-17.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\6c7abcdaddf8c20a82a7ec8ea63f20d7\jetified-play-services-measurement-sdk-api-17.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\6c7abcdaddf8c20a82a7ec8ea63f20d7\jetified-play-services-measurement-sdk-api-17.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\5bb43ed5403ab5e7e94fd91ee3d0cda6\jetified-play-services-measurement-base-17.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\5bb43ed5403ab5e7e94fd91ee3d0cda6\jetified-play-services-measurement-base-17.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\10af7865d8975a55a9f3faa197e2c37b\jetified-firebase-iid-21.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\10af7865d8975a55a9f3faa197e2c37b\jetified-firebase-iid-21.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\01fdfb027532cc79a8701d48ee913e2e\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\01fdfb027532cc79a8701d48ee913e2e\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\6367a665e603efe3962c1b5761ffe2ce\jetified-firebase-installations-16.3.5\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\6367a665e603efe3962c1b5761ffe2ce\jetified-firebase-installations-16.3.5\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8638343cfa94e40b888f48d4a8cee7c7\jetified-firebase-common-19.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8638343cfa94e40b888f48d4a8cee7c7\jetified-firebase-common-19.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\519f1e8a483d0de871c5ab955911ec61\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\519f1e8a483d0de871c5ab955911ec61\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\d160d4311f6a94820269d2cf0b1d6d0d\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\d160d4311f6a94820269d2cf0b1d6d0d\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\b600b1a50054e7138a85e15288df6c03\jetified-firebase-installations-interop-16.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\b600b1a50054e7138a85e15288df6c03\jetified-firebase-installations-interop-16.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\69ba75d567fadd8ecf0ab300f56ff7c3\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\69ba75d567fadd8ecf0ab300f56ff7c3\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\e8f46b6f0e2a738c3579573aa14c3c0a\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\e8f46b6f0e2a738c3579573aa14c3c0a\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\f7e6d7dc5b4a1e70537d95bee270813a\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\f7e6d7dc5b4a1e70537d95bee270813a\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\0b1d2595e8d3b86096129b4aa3ac24ab\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\0b1d2595e8d3b86096129b4aa3ac24ab\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\42d3f54ed29f88964a9b43a895452f44\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\42d3f54ed29f88964a9b43a895452f44\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\997a506ea3e116b2aa361165b260122e\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\997a506ea3e116b2aa361165b260122e\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\53c8ac7a730ae30460f99a58daee781b\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\53c8ac7a730ae30460f99a58daee781b\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\e0bef4d7d3e6ed55aac449d4c19c7c75\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\e0bef4d7d3e6ed55aac449d4c19c7c75\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8f1e2843711d7737459fe295fd07a568\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8f1e2843711d7737459fe295fd07a568\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\404f33c8e023fdc8472f78afb9a7ffd6\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\404f33c8e023fdc8472f78afb9a7ffd6\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\214706c20459189f62438bce45dab277\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\214706c20459189f62438bce45dab277\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\38947a6d5d739e23b4f7ecb3c8a1b5e5\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\38947a6d5d739e23b4f7ecb3c8a1b5e5\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\63b5a2c6c832e038d24d51c96fe4664d\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\63b5a2c6c832e038d24d51c96fe4664d\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\2e5d7d72ed080ba98133a7deb6c100fa\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\2e5d7d72ed080ba98133a7deb6c100fa\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\a171db973a50abe13b36fdf5bd9d5520\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\a171db973a50abe13b36fdf5bd9d5520\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\09a04913d85176ea535e35d6c1647d21\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\09a04913d85176ea535e35d6c1647d21\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\a57c8fc09bcd76283237b1d6425ae411\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\a57c8fc09bcd76283237b1d6425ae411\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8fc6106c5eb1ba5af76446ff3b1c1811\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8fc6106c5eb1ba5af76446ff3b1c1811\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\04b708b5fa131567a738af0b14e48dde\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\04b708b5fa131567a738af0b14e48dde\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\b10e05cfcf0de178cbdef4c00128767a\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\b10e05cfcf0de178cbdef4c00128767a\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\f4a58c66ea4f6cfeb3d98040ace9516c\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\f4a58c66ea4f6cfeb3d98040ace9516c\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\cd60ac0f34d5c2942cf601cfc1d138a5\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\cd60ac0f34d5c2942cf601cfc1d138a5\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\aef39c89e0f939479835d90120e719bc\exifinterface-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\aef39c89e0f939479835d90120e719bc\exifinterface-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\7da59af5a1bb83a31e1f26d8a5b45ba4\jetified-firebase-components-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\7da59af5a1bb83a31e1f26d8a5b45ba4\jetified-firebase-components-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\dba205afd1ab33eef5d3fbaf402fe7dc\jetified-firebase-encoders-json-17.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\dba205afd1ab33eef5d3fbaf402fe7dc\jetified-firebase-encoders-json-17.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ac64841c52aed9c69e097abaa0c18d30\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ac64841c52aed9c69e097abaa0c18d30\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\c034aca00c9f408ced656739d28ebbf1\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\c034aca00c9f408ced656739d28ebbf1\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\2f44102760ccedd4b25f7f69eb386767\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\2f44102760ccedd4b25f7f69eb386767\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\7f660789006e834e7b6eba42f208d6d2\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\7f660789006e834e7b6eba42f208d6d2\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\893aec16360ca016d824a33e710b7a2e\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\893aec16360ca016d824a33e710b7a2e\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\b7f12bef71dd1e992a15c19754cc1aca\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\b7f12bef71dd1e992a15c19754cc1aca\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8ca6d37d7b0e9cf291279400063a7f07\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8ca6d37d7b0e9cf291279400063a7f07\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\86bd68c6b85f965a0bcf94a85da4b8ed\jetified-transport-api-2.2.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\86bd68c6b85f965a0bcf94a85da4b8ed\jetified-transport-api-2.2.1\AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\572281fb1f65e169cfa1efbeb143d5fc\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\572281fb1f65e169cfa1efbeb143d5fc\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\418e46feee8813da3a9ea530296b69f1\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\418e46feee8813da3a9ea530296b69f1\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\52d45e228c524a60f620b725449e8fef\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\52d45e228c524a60f620b725449e8fef\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\4cd68b3a465ceb2f948825aab891adea\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\4cd68b3a465ceb2f948825aab891adea\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\e562cf5990edfe9f8fb195d918547c81\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\e562cf5990edfe9f8fb195d918547c81\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\43806ab21c5473d0df7e6f1f6122b539\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\43806ab21c5473d0df7e6f1f6122b539\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\13a4d33f528b1cd5e74543d984b5d25b\jetified-fbcore-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\13a4d33f528b1cd5e74543d984b5d25b\jetified-fbcore-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\d36d64326ade23c9bf26f97a727d0ebf\jetified-ui-common-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\d36d64326ade23c9bf26f97a727d0ebf\jetified-ui-common-2.2.0\AndroidManifest.xml:5:5-7:41
+INJECTED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\debug\AndroidManifest.xml
+INJECTED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml
+		INJECTED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\main\AndroidManifest.xml
+		INJECTED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\debug\AndroidManifest.xml:5:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\debug\AndroidManifest.xml:11:9-86
+	android:name
+		ADDED from O:\On\ANDROID\AppBanVeXemPhim\android\app\src\debug\AndroidManifest.xml:11:19-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.75.1] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\c86139b26daa743d708b56c8f06ddf9b\jetified-flipper-0.75.1\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.75.1] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\c86139b26daa743d708b56c8f06ddf9b\jetified-flipper-0.75.1\AndroidManifest.xml:16:22-73
+queries
+ADDED from [:react-native-image-crop-picker] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-14:15
+intent#action:name:android.media.action.IMAGE_CAPTURE
+ADDED from [:react-native-image-crop-picker] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:9-13:18
+action#android.media.action.IMAGE_CAPTURE
+ADDED from [:react-native-image-crop-picker] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-73
+	android:name
+		ADDED from [:react-native-image-crop-picker] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:21-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:react-native-image-crop-picker] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from [:react-native-image-crop-picker] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:22-78
+provider#androidx.core.content.FileProvider
+ADDED from [:react-native-image-crop-picker] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:9-27:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-crop-picker] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:13-47
+	android:authorities
+		ADDED from [:react-native-image-crop-picker] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:13-60
+	android:exported
+		ADDED from [:react-native-image-crop-picker] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from [:react-native-image-crop-picker] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-crop-picker] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:13-26:58
+	android:resource
+		ADDED from [:react-native-image-crop-picker] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:17-55
+	android:name
+		ADDED from [:react-native-image-crop-picker] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:17-67
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:react-native-image-crop-picker] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:9-31:72
+	android:theme
+		ADDED from [:react-native-image-crop-picker] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:13-69
+	android:name
+		ADDED from [:react-native-image-crop-picker] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:13-60
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] O:\On\ANDROID\AppBanVeXemPhim\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-83
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-messaging:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8f1cfb3d0ad4f7791d047005333b1a4c\jetified-firebase-messaging-21.1.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\de6ae469dcba5d51e29e04fa4658368c\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\de6ae469dcba5d51e29e04fa4658368c\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ae27e8a7189a18ce6c84c3d3459e1883\jetified-transport-runtime-2.2.5\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ae27e8a7189a18ce6c84c3d3459e1883\jetified-transport-runtime-2.2.5\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\3f8bcd2bcdc14505fbe3b02a40c5b81c\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\3f8bcd2bcdc14505fbe3b02a40c5b81c\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\20d8e46803de3f92c0b72667c84435b7\jetified-play-services-measurement-api-17.3.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\20d8e46803de3f92c0b72667c84435b7\jetified-play-services-measurement-api-17.3.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\f65797ef4ba96e32d3bb37e3a4d063e4\jetified-play-services-measurement-impl-17.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\f65797ef4ba96e32d3bb37e3a4d063e4\jetified-play-services-measurement-impl-17.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\6c7abcdaddf8c20a82a7ec8ea63f20d7\jetified-play-services-measurement-sdk-api-17.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\6c7abcdaddf8c20a82a7ec8ea63f20d7\jetified-play-services-measurement-sdk-api-17.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\10af7865d8975a55a9f3faa197e2c37b\jetified-firebase-iid-21.1.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\10af7865d8975a55a9f3faa197e2c37b\jetified-firebase-iid-21.1.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\6367a665e603efe3962c1b5761ffe2ce\jetified-firebase-installations-16.3.5\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\6367a665e603efe3962c1b5761ffe2ce\jetified-firebase-installations-16.3.5\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\519f1e8a483d0de871c5ab955911ec61\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\519f1e8a483d0de871c5ab955911ec61\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8f1cfb3d0ad4f7791d047005333b1a4c\jetified-firebase-messaging-21.1.0\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-messaging:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8f1cfb3d0ad4f7791d047005333b1a4c\jetified-firebase-messaging-21.1.0\AndroidManifest.xml:23:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\3f8bcd2bcdc14505fbe3b02a40c5b81c\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\3f8bcd2bcdc14505fbe3b02a40c5b81c\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\20d8e46803de3f92c0b72667c84435b7\jetified-play-services-measurement-api-17.3.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\20d8e46803de3f92c0b72667c84435b7\jetified-play-services-measurement-api-17.3.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\f65797ef4ba96e32d3bb37e3a4d063e4\jetified-play-services-measurement-impl-17.3.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\f65797ef4ba96e32d3bb37e3a4d063e4\jetified-play-services-measurement-impl-17.3.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\6c7abcdaddf8c20a82a7ec8ea63f20d7\jetified-play-services-measurement-sdk-api-17.3.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\6c7abcdaddf8c20a82a7ec8ea63f20d7\jetified-play-services-measurement-sdk-api-17.3.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\10af7865d8975a55a9f3faa197e2c37b\jetified-firebase-iid-21.1.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\10af7865d8975a55a9f3faa197e2c37b\jetified-firebase-iid-21.1.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\519f1e8a483d0de871c5ab955911ec61\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\519f1e8a483d0de871c5ab955911ec61\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8f1cfb3d0ad4f7791d047005333b1a4c\jetified-firebase-messaging-21.1.0\AndroidManifest.xml:23:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8f1cfb3d0ad4f7791d047005333b1a4c\jetified-firebase-messaging-21.1.0\AndroidManifest.xml:25:5-82
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\10af7865d8975a55a9f3faa197e2c37b\jetified-firebase-iid-21.1.0\AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\10af7865d8975a55a9f3faa197e2c37b\jetified-firebase-iid-21.1.0\AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\519f1e8a483d0de871c5ab955911ec61\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\519f1e8a483d0de871c5ab955911ec61\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8f1cfb3d0ad4f7791d047005333b1a4c\jetified-firebase-messaging-21.1.0\AndroidManifest.xml:25:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8f1cfb3d0ad4f7791d047005333b1a4c\jetified-firebase-messaging-21.1.0\AndroidManifest.xml:28:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8f1cfb3d0ad4f7791d047005333b1a4c\jetified-firebase-messaging-21.1.0\AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8f1cfb3d0ad4f7791d047005333b1a4c\jetified-firebase-messaging-21.1.0\AndroidManifest.xml:31:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8f1cfb3d0ad4f7791d047005333b1a4c\jetified-firebase-messaging-21.1.0\AndroidManifest.xml:29:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8f1cfb3d0ad4f7791d047005333b1a4c\jetified-firebase-messaging-21.1.0\AndroidManifest.xml:32:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8f1cfb3d0ad4f7791d047005333b1a4c\jetified-firebase-messaging-21.1.0\AndroidManifest.xml:33:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8f1cfb3d0ad4f7791d047005333b1a4c\jetified-firebase-messaging-21.1.0\AndroidManifest.xml:33:25-78
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8f1cfb3d0ad4f7791d047005333b1a4c\jetified-firebase-messaging-21.1.0\AndroidManifest.xml:41:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8f1cfb3d0ad4f7791d047005333b1a4c\jetified-firebase-messaging-21.1.0\AndroidManifest.xml:44:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8f1cfb3d0ad4f7791d047005333b1a4c\jetified-firebase-messaging-21.1.0\AndroidManifest.xml:43:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8f1cfb3d0ad4f7791d047005333b1a4c\jetified-firebase-messaging-21.1.0\AndroidManifest.xml:42:13-82
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-messaging:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8f1cfb3d0ad4f7791d047005333b1a4c\jetified-firebase-messaging-21.1.0\AndroidManifest.xml:49:9-55:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\b06c52c7157dd1e78b70bd52647f86c3\jetified-firebase-datatransport-17.0.10\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\b06c52c7157dd1e78b70bd52647f86c3\jetified-firebase-datatransport-17.0.10\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\20d8e46803de3f92c0b72667c84435b7\jetified-play-services-measurement-api-17.3.0\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\20d8e46803de3f92c0b72667c84435b7\jetified-play-services-measurement-api-17.3.0\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\10af7865d8975a55a9f3faa197e2c37b\jetified-firebase-iid-21.1.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\10af7865d8975a55a9f3faa197e2c37b\jetified-firebase-iid-21.1.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\6367a665e603efe3962c1b5761ffe2ce\jetified-firebase-installations-16.3.5\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\6367a665e603efe3962c1b5761ffe2ce\jetified-firebase-installations-16.3.5\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8638343cfa94e40b888f48d4a8cee7c7\jetified-firebase-common-19.5.0\AndroidManifest.xml:33:9-46:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8638343cfa94e40b888f48d4a8cee7c7\jetified-firebase-common-19.5.0\AndroidManifest.xml:33:9-46:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8f1cfb3d0ad4f7791d047005333b1a4c\jetified-firebase-messaging-21.1.0\AndroidManifest.xml:51:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8638343cfa94e40b888f48d4a8cee7c7\jetified-firebase-common-19.5.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8638343cfa94e40b888f48d4a8cee7c7\jetified-firebase-common-19.5.0\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8f1cfb3d0ad4f7791d047005333b1a4c\jetified-firebase-messaging-21.1.0\AndroidManifest.xml:50:13-84
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8f1cfb3d0ad4f7791d047005333b1a4c\jetified-firebase-messaging-21.1.0\AndroidManifest.xml:52:13-54:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8f1cfb3d0ad4f7791d047005333b1a4c\jetified-firebase-messaging-21.1.0\AndroidManifest.xml:54:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8f1cfb3d0ad4f7791d047005333b1a4c\jetified-firebase-messaging-21.1.0\AndroidManifest.xml:53:17-119
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:17.0.10] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\b06c52c7157dd1e78b70bd52647f86c3\jetified-firebase-datatransport-17.0.10\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.10] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\b06c52c7157dd1e78b70bd52647f86c3\jetified-firebase-datatransport-17.0.10\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.10] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\b06c52c7157dd1e78b70bd52647f86c3\jetified-firebase-datatransport-17.0.10\AndroidManifest.xml:29:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\de6ae469dcba5d51e29e04fa4658368c\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ae27e8a7189a18ce6c84c3d3459e1883\jetified-transport-runtime-2.2.5\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ae27e8a7189a18ce6c84c3d3459e1883\jetified-transport-runtime-2.2.5\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\de6ae469dcba5d51e29e04fa4658368c\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\de6ae469dcba5d51e29e04fa4658368c\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\de6ae469dcba5d51e29e04fa4658368c\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\de6ae469dcba5d51e29e04fa4658368c\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\de6ae469dcba5d51e29e04fa4658368c\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ae27e8a7189a18ce6c84c3d3459e1883\jetified-transport-runtime-2.2.5\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ae27e8a7189a18ce6c84c3d3459e1883\jetified-transport-runtime-2.2.5\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ae27e8a7189a18ce6c84c3d3459e1883\jetified-transport-runtime-2.2.5\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ae27e8a7189a18ce6c84c3d3459e1883\jetified-transport-runtime-2.2.5\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ae27e8a7189a18ce6c84c3d3459e1883\jetified-transport-runtime-2.2.5\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ae27e8a7189a18ce6c84c3d3459e1883\jetified-transport-runtime-2.2.5\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\ae27e8a7189a18ce6c84c3d3459e1883\jetified-transport-runtime-2.2.5\AndroidManifest.xml:33:13-132
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\3f8bcd2bcdc14505fbe3b02a40c5b81c\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\f65797ef4ba96e32d3bb37e3a4d063e4\jetified-play-services-measurement-impl-17.3.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\f65797ef4ba96e32d3bb37e3a4d063e4\jetified-play-services-measurement-impl-17.3.0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\3f8bcd2bcdc14505fbe3b02a40c5b81c\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\3f8bcd2bcdc14505fbe3b02a40c5b81c\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\3f8bcd2bcdc14505fbe3b02a40c5b81c\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\3f8bcd2bcdc14505fbe3b02a40c5b81c\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\3f8bcd2bcdc14505fbe3b02a40c5b81c\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\3f8bcd2bcdc14505fbe3b02a40c5b81c\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\f65797ef4ba96e32d3bb37e3a4d063e4\jetified-play-services-measurement-impl-17.3.0\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\f65797ef4ba96e32d3bb37e3a4d063e4\jetified-play-services-measurement-impl-17.3.0\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\3f8bcd2bcdc14505fbe3b02a40c5b81c\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\3f8bcd2bcdc14505fbe3b02a40c5b81c\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\3f8bcd2bcdc14505fbe3b02a40c5b81c\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\3f8bcd2bcdc14505fbe3b02a40c5b81c\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\3f8bcd2bcdc14505fbe3b02a40c5b81c\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\3f8bcd2bcdc14505fbe3b02a40c5b81c\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\3f8bcd2bcdc14505fbe3b02a40c5b81c\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\3f8bcd2bcdc14505fbe3b02a40c5b81c\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\3f8bcd2bcdc14505fbe3b02a40c5b81c\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\3f8bcd2bcdc14505fbe3b02a40c5b81c\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\3f8bcd2bcdc14505fbe3b02a40c5b81c\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\3f8bcd2bcdc14505fbe3b02a40c5b81c\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\3f8bcd2bcdc14505fbe3b02a40c5b81c\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\3f8bcd2bcdc14505fbe3b02a40c5b81c\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\3f8bcd2bcdc14505fbe3b02a40c5b81c\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\3f8bcd2bcdc14505fbe3b02a40c5b81c\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:49:13-87
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\20d8e46803de3f92c0b72667c84435b7\jetified-play-services-measurement-api-17.3.0\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\20d8e46803de3f92c0b72667c84435b7\jetified-play-services-measurement-api-17.3.0\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\20d8e46803de3f92c0b72667c84435b7\jetified-play-services-measurement-api-17.3.0\AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\10af7865d8975a55a9f3faa197e2c37b\jetified-firebase-iid-21.1.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\10af7865d8975a55a9f3faa197e2c37b\jetified-firebase-iid-21.1.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\10af7865d8975a55a9f3faa197e2c37b\jetified-firebase-iid-21.1.0\AndroidManifest.xml:33:17-96
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\6367a665e603efe3962c1b5761ffe2ce\jetified-firebase-installations-16.3.5\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\6367a665e603efe3962c1b5761ffe2ce\jetified-firebase-installations-16.3.5\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\6367a665e603efe3962c1b5761ffe2ce\jetified-firebase-installations-16.3.5\AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8638343cfa94e40b888f48d4a8cee7c7\jetified-firebase-common-19.5.0\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8638343cfa94e40b888f48d4a8cee7c7\jetified-firebase-common-19.5.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8638343cfa94e40b888f48d4a8cee7c7\jetified-firebase-common-19.5.0\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8638343cfa94e40b888f48d4a8cee7c7\jetified-firebase-common-19.5.0\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8638343cfa94e40b888f48d4a8cee7c7\jetified-firebase-common-19.5.0\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8638343cfa94e40b888f48d4a8cee7c7\jetified-firebase-common-19.5.0\AndroidManifest.xml:27:13-77
+meta-data#com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar
+ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8638343cfa94e40b888f48d4a8cee7c7\jetified-firebase-common-19.5.0\AndroidManifest.xml:43:13-45:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8638343cfa94e40b888f48d4a8cee7c7\jetified-firebase-common-19.5.0\AndroidManifest.xml:45:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\8638343cfa94e40b888f48d4a8cee7c7\jetified-firebase-common-19.5.0\AndroidManifest.xml:44:17-121
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\0b1d2595e8d3b86096129b4aa3ac24ab\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\0b1d2595e8d3b86096129b4aa3ac24ab\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\0b1d2595e8d3b86096129b4aa3ac24ab\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\43806ab21c5473d0df7e6f1f6122b539\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\43806ab21c5473d0df7e6f1f6122b539\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\43806ab21c5473d0df7e6f1f6122b539\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\43806ab21c5473d0df7e6f1f6122b539\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\43806ab21c5473d0df7e6f1f6122b539\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\43806ab21c5473d0df7e6f1f6122b539\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\43806ab21c5473d0df7e6f1f6122b539\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\43806ab21c5473d0df7e6f1f6122b539\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\43806ab21c5473d0df7e6f1f6122b539\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\43806ab21c5473d0df7e6f1f6122b539\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\43806ab21c5473d0df7e6f1f6122b539\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\43806ab21c5473d0df7e6f1f6122b539\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\43806ab21c5473d0df7e6f1f6122b539\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\43806ab21c5473d0df7e6f1f6122b539\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\43806ab21c5473d0df7e6f1f6122b539\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\43806ab21c5473d0df7e6f1f6122b539\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\43806ab21c5473d0df7e6f1f6122b539\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\43806ab21c5473d0df7e6f1f6122b539\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\43806ab21c5473d0df7e6f1f6122b539\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\43806ab21c5473d0df7e6f1f6122b539\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\43806ab21c5473d0df7e6f1f6122b539\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\43806ab21c5473d0df7e6f1f6122b539\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:39:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\43806ab21c5473d0df7e6f1f6122b539\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\43806ab21c5473d0df7e6f1f6122b539\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\43806ab21c5473d0df7e6f1f6122b539\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:45:5-82
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\43806ab21c5473d0df7e6f1f6122b539\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:45:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\43806ab21c5473d0df7e6f1f6122b539\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:46:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\43806ab21c5473d0df7e6f1f6122b539\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:46:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\43806ab21c5473d0df7e6f1f6122b539\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:49:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\43806ab21c5473d0df7e6f1f6122b539\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:49:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\43806ab21c5473d0df7e6f1f6122b539\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:50:5-89
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\AngleOfPeace\.gradle\caches\transforms-2\files-2.1\43806ab21c5473d0df7e6f1f6122b539\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:50:22-86
